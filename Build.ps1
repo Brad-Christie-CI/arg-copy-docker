@@ -1,0 +1,1 @@
+docker build --no-cache -t arg-copy-docker --build-arg COPY_SRC="./files/foo.txt" .
